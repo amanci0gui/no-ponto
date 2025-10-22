@@ -10,7 +10,7 @@ class UserRepositoryImpl : UserRepository {
         TODO("Not yet implemented")
     }
 
-    override suspend fun saveUser(user: UserSaveDto): User {
+    override suspend fun saveUser(user: User): User {
         TODO("Not yet implemented")
     }
 
